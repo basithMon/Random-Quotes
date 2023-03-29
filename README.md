@@ -1,1 +1,1 @@
-# Random-Quotes
+https://basithmon.github.io/Random-Quotes/
